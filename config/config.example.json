@@ -25,6 +25,10 @@
             }
         }
     },
+    "api": {
+        "port": 8080,
+        "secret": "00000000-0000-0000-0000-000000000000"
+    },
     "sharding": {
         "clusterId": 0,
         "shardsPerCluster": 16,
